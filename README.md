@@ -7,6 +7,7 @@ El curso está basado en varios contenidos disponibles en internet:
 - [Visual Studio Code Tutorial](https://code.visualstudio.com/docs/python/python-tutorial)
 - [py4.com](https://www.py4e.com/)
   - [Repositorio en Github](https://github.com/csev/py4e)
+- [OpenBookProject/Python](http://openbookproject.net/thinkcs/python/english3e/)
 - [Jerry Pussinen - Tutorial](https://github.com/jerry-git/learn-python3)
 
 ## Requisitos Entorno Desarrollo
@@ -16,8 +17,3 @@ Se requiere tener instalado los siguientes componentes:
 - Visual Studio Code Python Extension [Download](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 
 > [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial#_prerequisites)
-
-## Otras Referencias
-
-- [OpenBookProject/Python](http://openbookproject.net/thinkcs/python/english3e/)
-
