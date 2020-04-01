@@ -11,5 +11,4 @@
 * Sum up all the even numbers in a list.
 * Sum up all the negative numbers in a list.
 * Count how many words in a list have length 5.
-* Sum all the elements in a list up to but not including the first even number.
-* 
+* Sum all the elements in a list up to but not including the first even number.* 
