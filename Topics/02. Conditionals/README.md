@@ -26,7 +26,7 @@
     > * Enter Hours: **forty**
     >> Error, please enter numeric input
 
-* Assume the days of the week are numbered 0,1,2,3,4,5,6 from Sunday to Saturday. Write a function which is given the day number, and it returns the day name (a string).
+* Assume the days of the week are numbered 0,1,2,3,4,5,6 from Sunday to Saturday. Ask to user for the day number, and it returns the day name (a string).
 
 * Give the logical opposites of these conditions
     > 1. a > b

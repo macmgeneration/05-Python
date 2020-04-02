@@ -17,3 +17,13 @@
 
 * Write a function area_of_circle(r) which returns the area of a circle of radius r.
 * Write a fruitful function sum_to(n) that returns the sum of all integer numbers up to and including n. So sum_to(10) would be 1+2+3...+10 which would return the value 55.
+* Write a function print_triangular_numbers(n) that prints out the first n triangular numbers. A call to print_triangular_numbers(5) would produce the following output:
+  | n | result  |
+  |---|----:|
+  | 1 | 1  |
+  | 2 | 3  |
+  | 3 | 6  |
+  | 4 | 10 |
+  | 5 | 15 |
+  > (hint: use a web search to find out what a triangular number is.)
+* 
