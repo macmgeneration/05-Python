@@ -17,3 +17,7 @@ Se requiere tener instalado los siguientes componentes:
 - Visual Studio Code Python Extension [Download](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 
 > [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial#_prerequisites)
+
+## Otras referencias o recursos
+
+- [Introducción visual a Python](https://hourofpython.com/una-introduccion-visual-a-python/index.html)
