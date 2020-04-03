@@ -19,8 +19,8 @@
     assert(remove_letter("a", "banana") == "bnn")
     assert(remove_letter("z", "banana") == "banana")
     assert(remove_letter("i", "Mississippi") == "Msssspp")
-    assert(remove_letter("b", "") = "")
-    assert(remove_letter("b", "c") = "c")
+    assert(remove_letter("b", "") == "")
+    assert(remove_letter("b", "c") == "c")
     ```
 * Encapsule in a function named count_letters, and generalize it so that it accepts the string and the letter as arguments. Make the function return the number of characters, rather than print the answer. The caller should do the printing.
     ``` python
