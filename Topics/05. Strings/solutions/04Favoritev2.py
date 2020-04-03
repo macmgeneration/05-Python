@@ -1,7 +1,9 @@
+import string
+
 def analize(s):
     str = ""
     for c in s:
-        if c not in r'!"#$%&\'()*+,-./:;<=>?@[\\]^_`{|}~' : str += c
+        if c not in string.punctuation : str += c
     words = str.split()
     count = 0
     for word in words:
@@ -19,4 +21,4 @@ de su hacienda"""
 
 text, word, counter = analize(text)
 print (text)
-print('Your text contains', len(word), 'words, of which ', counter ,' (', round(counter / len(word) * 100, 2) ,'%) contain an "e".')
+print('Your text contains ', len(word), 'words, of which ', counter ,' (', round(counter / len(word) * 100, 2) ,'%) contain an "e".')
