@@ -26,4 +26,3 @@
   | 4 | 10 |
   | 5 | 15 |
   > (hint: use a web search to find out what a triangular number is.)
-* 
