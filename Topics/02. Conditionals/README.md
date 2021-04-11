@@ -14,7 +14,7 @@
     > * Enter Hours: **45**
     > * Enter Rate: **10**
     >
-    > Pay: **475.0**  (*Tips*: 475 = 40 * 10 + 5 * 15)
+    > Pay: **475.0**  (*Tips*: 475 = 40 * 10 + 5 * 10 * 1.5)
 
 * Rewrite your pay program using try and except so that your program handles non-numeric input gracefully.
 

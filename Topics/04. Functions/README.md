@@ -13,7 +13,7 @@
     > * Enter Hours: **45**
     > * Enter Rate: **10**
     >
-    > Pay: **475.0**  (*Tips*: 475 = 40 * 10 + 5 * 15)
+    > Pay: **475.0**  (*Tips*: 475 = 40 * 10 + 5 * 10 * 1.5)
 
 * Write a function area_of_circle(r) which returns the area of a circle of radius r.
 * Write a fruitful function sum_to(n) that returns the sum of all integer numbers up to and including n. So sum_to(10) would be 1+2+3...+10 which would return the value 55.
