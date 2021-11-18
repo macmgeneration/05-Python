@@ -9,6 +9,7 @@ El curso está basado en varios contenidos disponibles en internet:
   - [Repositorio en Github](https://github.com/csev/py4e)
 - [OpenBookProject/Python](http://openbookproject.net/thinkcs/python/english3e/)
 - [Jerry Pussinen - Tutorial](https://github.com/jerry-git/learn-python3)
+- [Getting started with Python (Channel 9)](https://github.com/microsoft/c9-python-getting-started)
 
 ## Run in Binder
 
