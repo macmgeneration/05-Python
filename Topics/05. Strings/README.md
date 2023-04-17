@@ -6,14 +6,14 @@
 
 ## Exercises
 
-* Write a function that mirrors its argument:
+1. Write a function that mirrors its argument:
     ``` python
     assert(mirror("good") == "gooddoog")
     assert(mirror("Python") == "PythonnohtyP")
     assert(mirror("") == "")
     assert(mirror("a") == "aa")
     ```
-* Write a function that removes all occurrences of a given letter from a string:
+2. Write a function that removes all occurrences of a given letter from a string:
     ``` python
     assert(remove_letter("a", "apple") == "pple")
     assert(remove_letter("a", "banana") == "bnn")
@@ -22,7 +22,7 @@
     assert(remove_letter("b", "") == "")
     assert(remove_letter("b", "c") == "c")
     ```
-* Encapsule in a function named count_letters, and generalize it so that it accepts the string and the letter as arguments. Make the function return the number of characters, rather than print the answer. The caller should do the printing.
+3. Encapsule in a function named count_letters, and generalize it so that it accepts the string and the letter as arguments. Make the function return the number of characters, rather than print the answer. The caller should do the printing.
     ``` python
     fruit = "banana"
     count = 0
@@ -31,7 +31,7 @@
             count += 1
     print(count)
     ```
-* Assign to a variable in your program a triple-quoted string that contains your favourite paragraph of text — perhaps a poem, a speech, instructions to bake a cake, some inspirational verses, etc.
+4. Assign to a variable in your program a triple-quoted string that contains your favourite paragraph of text — perhaps a poem, a speech, instructions to bake a cake, some inspirational verses, etc.
 
     Write a function which removes all punctuation from the string, breaks the string into a list of words, and counts the number of words in your text that contain the letter “e”. Your program should print an analysis of the text like this:
     ``` python

@@ -7,9 +7,9 @@
 
 ## Exercises
 
-* Write a program to sum all items in a list
-* Write a program to get the largest number from a list
-* Write a function replace(s, old, new) that replaces all ocurrences of old with new in a string s:
+1. Write a program to sum all items in a list
+2. Write a program to get the largest number from a list
+3. Write a function replace(s, old, new) that replaces all ocurrences of old with new in a string s:
     ``` python
     assert(replace("Mississippi", "i", "I") == "MIssIssIppI")
 
