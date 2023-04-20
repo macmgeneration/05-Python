@@ -1,10 +1,8 @@
 def replace(s, old, new):
-    while True:
-        if old in s:
-            s = s.replace(old, new)
-        else:
-            break
-    return s
+    words = s.split()
+    for i in range(len(words)):
+        words[i] = words[i].replace(old, new)
+    return " ".join(words)
 
 assert(replace('Mississippi', 'i', 'I') == 'MIssIssIppI')
 

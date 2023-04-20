@@ -11,4 +11,6 @@ def letter_counter(s):
     return result
 
 text = "ThiS is String with Upper and lower case Letters"
-print(letter_counter(text))
+print('{0:^8} {1:^8}'.format('letter','count'))
+for k,v in letter_counter(text).items():
+    print('{0:^8} {1:^8}'.format(k,v))
